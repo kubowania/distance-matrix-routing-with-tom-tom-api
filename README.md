@@ -1,47 +1,70 @@
-# Distance Matrix Routing App with Tom Tom API
+# Getting Started with Create React App
 
-Have you ever wanted to build a delivery app that will calculate the shortest distance from each drop off spot? Get extra API requests using ANIAKUBOW *after(!)* signing up, here: https://bit.ly/3uCAkvK
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Now, for those of you who have never heard the buzz word Matrix Routing before, it is what we will be using to optimise our multiple deliveries by travel time. 
+## Available Scripts
 
-We are going to be using TomTom Map SDK for Web, to show us the best route for us as the delivery driver, to drop off all three deliveries based on time, taking: 
-1. The route into account 
-2. The traffic on the roads into account. 
-3. The traffic incidents on the roads into account
+In the project directory, you can run:
 
-The final route is calculated using the “Routing API” which by default will do a “car”  route. But it can do way more than that. It can calculate the routes for motorcycles, vans, trucks or pedestrians! As you can image, the results will vary.  
+### `npm start`
 
-⌨️ 00:00 Introduction
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-⌨️ 02:17 Signing up to get our API Key from Tom Tom ( click here: https://bit.ly/2S5Ry7x )
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-⌨️ 03:25 Starting our React App Project
+### `npm test`
 
-⌨️ 05:43 Adding our Map
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-⌨️ 14:36 Setting the longitude and latitude by Search box + Adding traffic incidents to the map
+### `npm run build`
 
-⌨️ 20:00 Add a Marker to the Map
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-⌨️ 26:05 Making the Marker Draggable
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-⌨️ 28:51 Adding a Popup to the Marker
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-⌨️ 31:06 Adding Multiple Delivery Points and Calculating the shortest route
+### `npm run eject`
 
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-Watch the full video tutorial [here](https://www.youtube.com/watch?v=43jfFU4FJZo)
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-___
-⭐ In most videos I use Tabnine as my A.I autocompletion tool. You can download it for free here: http://bit.ly/tabnine-top-tool
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-⭐ You can get a blockchain domain with my affiliate link here: http://bit.ly/get-a-crypto-domain
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-⭐ If you would like to buy me a coffee, well thank you very much that is mega kind! : https://www.buymeacoffee.com/aniakubow
+## Learn More
 
-⭐ Sign up for weekly coding tips from my newsletter partnership: https://bit.ly/JS-tips
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-### You can also find me on:
-* Twitter: https://twitter.com/ania_kubow
-* Instagram: https://instagram.com/aniakubow
+To learn React, check out the [React documentation](https://reactjs.org/).
 
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

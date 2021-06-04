@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.app {
+  height: 600px;
+  width: 100vh;
+}
+.map {
+  height: 100%;
+  width: 100%;
+}
+
+.marker {
+  background-image: url('https://i.imgur.com/oz3r3Wq.png');
+  background-size: cover;
+  width: 22px;
+  height: 22px;
+  background-color: yellow;
+  border-radius: 11px;
+  border: solid 3px darkslategray;
+}
+
+.marker-delivery {
+  background-image: url('https://i.imgur.com/cIooqnp.png');
+  background-size: cover;
+  width: 22px;
+  height: 22px;
+  border-radius: 15px;
+  border: solid darkslategrey 3px;
+}
