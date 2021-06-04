@@ -12,14 +12,23 @@ We are going to be using TomTom Map SDK for Web, to show us the best route for u
 The final route is calculated using the “Routing API” which by default will do a “car”  route. But it can do way more than that. It can calculate the routes for motorcycles, vans, trucks or pedestrians! As you can image, the results will vary.  
 
 ⌨️ 00:00 Introduction
+
 ⌨️ 02:17 Signing up to get our API Key from Tom Tom ( click here: https://bit.ly/2S5Ry7x )
+
 ⌨️ 03:25 Starting our React App Project
+
 ⌨️ 05:43 Adding our Map
+
 ⌨️ 14:36 Setting the longitude and latitude by Search box + Adding traffic incidents to the map
+
 ⌨️ 20:00 Add a Marker to the Map
+
 ⌨️ 26:05 Making the Marker Draggable
+
 ⌨️ 28:51 Adding a Popup to the Marker
+
 ⌨️ 31:06 Adding Multiple Delivery Points and Calculating the shortest route
+
 
 Watch the full video tutorial [here](https://www.youtube.com/watch?v=43jfFU4FJZo)
 
