@@ -34,7 +34,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-To isntall all the packages:
+To install all the packages:
 
 ### `npm i`
 
