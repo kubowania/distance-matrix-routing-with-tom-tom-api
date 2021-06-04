@@ -13,7 +13,6 @@ The final route is calculated using the “Routing API” which by default will 
 
 Watch the full video [here](https://www.youtube.com/watch?v=43jfFU4FJZo)
 
-Final code: https://github.com/kubowania/distance-matrix-routing-with-tom-tom-api
 ___
 ⭐ In most videos I use Tabnine as my A.I autocompletion tool. You can download it for free here: http://bit.ly/tabnine-top-tool
 
