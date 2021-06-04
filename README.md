@@ -1,4 +1,4 @@
-# Distance Matric Routing App
+# Distance Matrix Routing App
 
 Have you ever wanted to build a delivery app that will calculate the shortest distance from each drop off spot? Get extra API requests using ANIAKUBOW *after(!)* signing up, here: https://bit.ly/3uCAkvK
 
