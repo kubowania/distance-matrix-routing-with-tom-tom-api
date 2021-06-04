@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Distance Matric Routing App
 
 Have you ever wanted to build a delivery app that will calculate the shortest distance from each drop off spot? Get extra API requests using ANIAKUBOW *after(!)* signing up, here: https://bit.ly/3uCAkvK
 
@@ -33,6 +33,10 @@ ___
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+To isntall all the packages:
+
+### `npm i`
 
 In the project directory, you can run:
 
